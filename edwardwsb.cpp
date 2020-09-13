@@ -58,7 +58,7 @@ void init() {
 } 
 
 int main(){
-	freopen("shuju.json","r",stdin);
+	//freopen("shuju.json","r",stdin);
 	init();
 	string s;	 
 	return 0;
