@@ -1,7 +1,17 @@
-#include<bits/stdc++.h>
+#include <algorithm>
+#include <iostream>
+#include <cstring>
+#include <vector>
+#include <cstdio>
+#include <string>
+#include <cmath>
+#include <queue>
+#include <stack>
+#include <set>
+#include <map>
 #include <iostream>
 #include <io.h>
-#include <vector>
+#include <unordered_map> 
 using namespace std;
 
 unordered_map<string,long long>namenum,totnum,personnum;
